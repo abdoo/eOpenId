@@ -1,2 +1,2 @@
 # eOpenId
-OpenId Connect protocol
+OpenId Connect protocol initial draft.
